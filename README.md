@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @puspitaeugenia
-- 👀 I’m interested in web developing, software developing, and data mining
+- 👀 I’m interested in web development, software development, and data mining
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me egieugenia@outlook.com
 
 <!---
