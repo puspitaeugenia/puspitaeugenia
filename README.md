@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puspitaeugenia
 - 👀 I’m interested in software development and data mining
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Flutter
 - 📫 How to reach me egieugenia@outlook.com
 
 <!---
