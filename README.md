@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @puspitaeugenia
-- 👀 I’m interested in software development and data mining
+- 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Python and Flutter
 - 📫 Contact me at egieugenia@outlook.com
 
